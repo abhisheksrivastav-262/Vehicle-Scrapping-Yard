@@ -1,5 +1,5 @@
 export const business = {
-  name: 'Vehicle Scrapping Yard', callPhone: '+91 94251 95816', callPhoneRaw: '919425195816', whatsappPhone: '+91 94251 95826', whatsappPhoneRaw: '919425195826', email: 'hqureshi351@yahoo.com',
+  name: 'Vehicle Scrapping Yard', callPhone: '+91 94251 95816', callPhoneRaw: '919425195816', whatsappPhone: '+91 94251 95816', whatsappPhoneRaw: '919425195816', email: 'hqureshi351@yahoo.com',
   address: 'Shankarpur, Opp. Cricket Stadium, Gwalior, Madhya Pradesh, India – 474010', city: 'Gwalior',
 };
 export const routes = [
